@@ -1,8 +1,5 @@
-### Hi there 👋
+Olá. 
 
-- 🌱 I’m a Systems Analysis and Development student and currently learning Java and Python. 
-- 👯 I’m looking to develop my Git and code control skills.
-- 🤔 I’m looking for help in logic programming.
-- 💬 Ask me about 
-- Science, Sports, Politics, Literature, Games... 
--->
+Meu nome é Daniel Gondim, sou estudante de Análise de Desenvolvimento de Sistemas na Faculdade Senac Goiás. Estou cursando o segundo período e meu perfil no Github contém exercícios feitos para a faculdade e para cursos realizados na internet.
+
+Faço estágio no time de Qualidade da ZG Soluções e possuo a certificação CTFL Foundation Level. 
